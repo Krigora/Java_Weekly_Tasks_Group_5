@@ -15,6 +15,8 @@ identify(6) ->  "Even"
 
 Added more modules
 
+This is new day and more job needs to be done
+
      */
 
 //working on the code
