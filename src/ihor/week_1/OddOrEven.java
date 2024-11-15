@@ -1,9 +1,10 @@
 package ihor.week_1;
 
 public class OddOrEven {
-//fddffs
 
-    }
+// add some information
+}
+
 
 /*
     Write  a method which can identifies given number is even or odd
