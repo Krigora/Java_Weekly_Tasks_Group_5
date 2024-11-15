@@ -1,8 +1,18 @@
 package ihor.week_1;
 
+
+
 public class OddOrEven {
 
-// add some information
+    public static String identify(int number) {
+        return (number % 2 == 0) ? "Even" : "Odd";
+    }
+
+    public static void main(String[] args) {
+        System.out.println("identify(5) -> " + identify(5)); // Output: Odd
+        System.out.println("identify(6) -> " + identify(6)); // Output: Even
+    }
+
 }
 
 
