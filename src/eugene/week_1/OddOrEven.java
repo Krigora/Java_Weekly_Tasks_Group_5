@@ -11,6 +11,10 @@ EX:
 identify(5) ->  "Odd"
 identify(6) ->  "Even"
 
+
+
+Added more modules
+
      */
 
 //working on the code
