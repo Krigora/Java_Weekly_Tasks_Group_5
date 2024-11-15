@@ -14,6 +14,8 @@ identify(6) ->  "Even"
 
 Adding some cool features
 
+Added more modules
+
      */
 
 //working on the code
