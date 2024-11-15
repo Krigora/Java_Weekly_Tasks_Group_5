@@ -1,11 +1,10 @@
-package ihor.week_1;
+package efe.week_1;
 
 public class OddOrEven {
+    //some changes
+    //some codes
 
-// add some information
 }
-
-
 /*
     Write  a method which can identifies given number is even or odd
 EX:
