@@ -11,6 +11,9 @@ EX:
 identify(5) ->  "Odd"
 identify(6) ->  "Even"
 
+
+Adding some cool features
+
      */
 
 //working on the code
