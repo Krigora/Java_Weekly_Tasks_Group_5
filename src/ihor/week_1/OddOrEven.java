@@ -1,18 +1,19 @@
 package ihor.week_1;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class OddOrEven {
+
+    public static String identify(int number) {
+        return (number % 2 == 0) ? "Even" : "Odd";
+    }
+
     public static void main(String[] args) {
-        int num = 6;
-
-        if(num % 2 == 0){
-            System.out.println(num + " is even ");
-        }else{
-            System.out.println(num + " is odd ");
-        }
-    }
+        System.out.println("identify(5) -> " + identify(5)); // Output: Odd
+        System.out.println("identify(6) -> " + identify(6)); // Output: Even
     }
 
-
+}
 
 
 /*
