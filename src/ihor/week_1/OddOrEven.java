@@ -4,7 +4,7 @@ package ihor.week_1;
 
 public class OddOrEven {
 
-    public static String identify(int number) {
+    public  static String identify(int number) {
         return (number % 2 == 0) ? "Even" : "Odd";
     }
 
