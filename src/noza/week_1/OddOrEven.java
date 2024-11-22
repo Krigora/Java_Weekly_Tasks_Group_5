@@ -12,8 +12,7 @@ public class OddOrEven {
 
     public static void main(String[] args) {
 
-        //calling the identify() method:
-        System.out.println(identify(6)); //Output: Even
+
 
 
     }
