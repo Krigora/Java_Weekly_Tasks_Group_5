@@ -24,9 +24,9 @@ public class ReverseNegativeNumbers {
         }
 
         public static void main(String[] args) {
-            int negativeNumber = -12345;
+            int negativeNumber = -98765;               // output should be -56789
             int reversed = reverseNegative(negativeNumber);
-            System.out.println("Reversed negative number: " + reversed); // Output: -54321
+            System.out.println("Reversed negative number: " + reversed);
         }
     }
 
