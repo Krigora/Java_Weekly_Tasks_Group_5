@@ -8,8 +8,12 @@ public class ReverseNegativeNumber {
         }
 
         // Convert the number to positive for reversal
-        int positiveNumber = -number;
+         int positiveNumber = -number;
         int reversedNumber = 0;
+
+
+
+
 
         // Reverse the digits
         while (positiveNumber != 0) {
