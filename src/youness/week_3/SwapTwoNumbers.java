@@ -14,8 +14,6 @@ public class SwapTwoNumbers {
          x= x-y;
 
          System.out.println("Afetr Swaping , x = " + x+ " and y = " + y);
-
-
      }
 
 }
