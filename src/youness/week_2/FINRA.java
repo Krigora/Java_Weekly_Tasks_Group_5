@@ -1,4 +1,4 @@
-package youness.week2;
+package youness.week_2;
 
 public class FINRA {
 
