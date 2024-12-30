@@ -16,8 +16,11 @@ public class OddOrEven {
     }
 
      static void identify (int num ){
+
         if (num % 2==0){
+
             System.out.println(num + " is Even number ");
+
         } else {
             System.out.println(num + " is Odd number");
         }
