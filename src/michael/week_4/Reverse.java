@@ -9,7 +9,24 @@ public class Reverse {
         return Integer.valueOf(str);
     }
 
+
+
+    public static int reverseNum_2(int x) {
+        int reversed = 0;
+        while (x != 0) {
+            int digit = x % 10;
+            reversed = reversed * 10 + digit;
+            x /= 10;
+        }
+        return reversed;
+
+    }
+
+
+
     public static void main(String[] args) {
         System.out.println(reverseNum(-125));
+
+        System.out.println("reverseNum_2(-125) = " + reverseNum_2(-125));
     }
 }
