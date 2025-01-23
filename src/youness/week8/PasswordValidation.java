@@ -32,9 +32,9 @@ public class PasswordValidation {
             }
 
         }
-
         return hasUpperCase && hasDigit && hasLowerCase && hasSpecialChar;
     }
+
 
     public static void main(String[] args) {
         System.out.println(passwordIsValid("Cydeo@B37"));
