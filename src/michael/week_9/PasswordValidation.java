@@ -18,6 +18,8 @@ public class PasswordValidation {
         String numbers="(.*[0-9].*)";
         String specialchars="(.*[ -/, :-@].*)";
 
+        //Be careful about covering all conditions
+
         boolean  HasLower = password.matches(lowercase),
                 HasUppere = password.matches(uppercase),
                 HasDigits = password.matches(numbers),
